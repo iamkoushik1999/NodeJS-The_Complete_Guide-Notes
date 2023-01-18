@@ -12,3 +12,7 @@
 ### How does it work?
 
 > Node Js uses V8 and V8 simply is the name of the javascript engine built by Google, that runs javascript in the browser
+
+### What does V8 do?
+
+> It takes that JavaScript code and compiles it to machine code
