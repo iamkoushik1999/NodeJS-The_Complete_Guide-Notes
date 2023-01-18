@@ -16,3 +16,9 @@
 ### What does V8 do?
 
 > It takes that JavaScript code and compiles it to machine code
+
+### Write something in different file with Node Js
+
+> 1st we have to import 'fs' file system module with **require('fs')** and store that witn
+> **const fs = require('fs')**
+>and then call a method of 'fs' called **writefileSync** and then the path ('hello.txt',"Hello to Node Js")
