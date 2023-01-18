@@ -22,3 +22,10 @@
 > 1st we have to import 'fs' file system module with **require('fs')** and store that witn
 > **const fs = require('fs')**
 >and then call a method of 'fs' called **writefileSync** and then the path ('hello.txt',"Hello to Node Js")
+
+### JavaScript Summery
+
+|Weakly Typed Language|Object Oriented Language|Versatile Language|
+|---------------------|------------------------|------------------|
+|No explicit type assignment|Data can be organized in logical Objects|Runs in Browser and directly on a PC/Server|
+|Data type can be switched dynamically|Primitive and Reference type|Can perform a broad varity of task|
