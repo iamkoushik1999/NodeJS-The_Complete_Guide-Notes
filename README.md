@@ -42,4 +42,4 @@
 
 > Versatile Language means - 
 
-> JavaScript runs on Browser and this is were it comes from but also JavaScript can be used with Node Js to run it on your PC outside of a browser or also on a server day of work
+> JavaScript runs on Browser and this is were it comes from but also JavaScript can be used with Node Js to run it on your PC outside of a browser or also on a server day of work.
